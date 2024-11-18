@@ -22,3 +22,6 @@ git config --global user.name "Ryxwaer"
 
 # Login shell to fish
 chsh -s /bin/fish
+
+# Switch layout by Alt+Shift
+dconf write /org/gnome/desktop/wm/keybindings/switch-input-source "['<Alt>Shift_L']"
