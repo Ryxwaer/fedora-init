@@ -1,0 +1,10 @@
+[/]
+default-profile-uuid='d5ef7c1e39eecf36de93eebc673a412e'
+profile-uuids=['d5ef7c1e39eecf36de93eebc673a412e']
+restore-session=false
+window-size=(uint32 93, uint32 42)
+
+[Profiles/d5ef7c1e39eecf36de93eebc673a412e]
+login-shell=true
+opacity=0.84999999999999998
+palette='gnome'
