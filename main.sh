@@ -15,3 +15,10 @@ sudo cp ./files/udev/70-mouse-remap.hwdb /etc/udev/hwdb.d/70-mouse-remap.hwdb
 sudo systemd-hwdb update
 sudo udevadm control --reload-rules
 sudo udevadm trigger
+
+# Git setup
+git config --global user.email "ryxwaer@gmail.com"
+git config --global user.name "Ryxwaer"
+
+# Login shell to fish
+chsh -s /bin/fish
